@@ -60,7 +60,7 @@ Inflation patterns are visualized using **heatmap visualization**.
 
 # 📈 Example Visualization
 
-![Inflation Heatmap](images/visualisasi.png)
+![Inflation Heatmap](image/visualisasi.png)
 
 This heatmap helps identify:
 
